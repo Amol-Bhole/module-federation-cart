@@ -32,4 +32,4 @@ https://github.com/Amol-Bhole/module-federation-container
 
 if Cart SubApp is run independently, output will be as below
 
-https://github.com/Amol-Bhole/module-federation-cart/blob/main/src/assets/image.jpg?raw=true
+![alt text](https://github.com/Amol-Bhole/module-federation-cart/blob/main/src/assets/cart_optput.png?raw=true)
