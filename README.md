@@ -1,8 +1,8 @@
 # Cart SubApp
 
 Is built using JavaScript, Html, Css, faker, Webpack
-npm install
-npm start
+### npm install
+### npm start
 
 ## webpack.config.js
 
